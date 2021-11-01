@@ -1,0 +1,33 @@
+{
+  "name": "a-url-shortener",
+  "version": "1.0.0",
+  "description": "A url shortener with html and javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estelle-Rose/a-url-shortener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estelle-Rose/a-url-shortener/issues"
+  },
+  "homepage": "https://github.com/Estelle-Rose/a-url-shortener#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "config": "^3.3.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

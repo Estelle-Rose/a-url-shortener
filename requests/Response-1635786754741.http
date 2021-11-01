@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 224
+ETag: W/"e0-aN3veoknK6N8gi4sjougy6Jsr8Q"
+Date: Mon, 01 Nov 2021 17:12:27 GMT
+Connection: close
+
+{"_id":"61801c0cf4b0dc5c0e610d95","urlCode":"frGFVkHq5","longUrl":"https://serenetzen/amma","shortUrl":"http://localhost:5000/frGFVkHq5","date":"Mon Nov 01 2021 17:55:40 GMT+0100 (heure normale d’Europe centrale)","__v":0}
